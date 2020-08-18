@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nemasobhani/InterpretableML/master?filepath=Interpretable%20ML%20at%20Avanade%20ITS.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nemasobhani/InterpretableML/master?filepath=InterpretableML%20at%20Avanade%20ITS.ipynb)
 
 # Interpretable ML @ Avanade ITS
 
